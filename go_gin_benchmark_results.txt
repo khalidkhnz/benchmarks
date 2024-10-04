@@ -1,0 +1,8 @@
+Total Requests: 10000
+Total Requests Success: 9175
+Total Requests Drop: 825
+Total Time: 2523293 ms (2.523293 s)
+Average Time per Request: 275 µs (0.000275018 s)
+Min Time per Request: 114356 µs (0.1143561 s)
+Max Time per Request: 2510903 µs (2.5109036 s)
+Requests per Second: 3636.1215284947093
